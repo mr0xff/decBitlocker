@@ -42,10 +42,13 @@ Description: read/write encrypted BitLocker volumes
 
 
 # Instação / Instalation
-git clone https://github.com/mr0xff/decBitlocker.git
+$ git clone https://github.com/mr0xff/decBitlocker.git
 
-cd decBitlocker
+$ cd decBitlocker
 
-sudo ./decBitokcer.sh
+$ chmod +x decBitlocker.sh
 
-seja feliz :) !
+$ sudo ./decBitokcer.sh
+
+
+# seja feliz :) !
