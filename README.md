@@ -51,4 +51,4 @@ $ chmod +x decBitlocker.sh
 $ sudo ./decBitokcer.sh
 
 
-# seja feliz :) !
+# Seja feliz :) !
