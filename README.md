@@ -1,4 +1,4 @@
-# decBitlocker
+# decBitLocker
 Programa para descriptografar uma partição ou disco com o bitlocker
 
 Program to decrypt a partition or disk with bitlocker
@@ -41,14 +41,22 @@ Description: read/write encrypted BitLocker volumes
 
 
 
-# Instação / Instalation
-$ git clone https://github.com/mr0xff/decBitlocker.git
+# Instação / Installation
+<strong>Clona o repositorio</strong>
+<br>
+<code>$ git clone https://github.com/mr0xff/decBitlocker.git</code>
+<br>
+<strong>Acesse o directory</strong>
+<br>
+<code>terminal:\~$ cd decBitlocker</code>
+<br>
+<strong>Permissão de execução</strong>
+<br>
+<code>terminal:\~/decBitlocker$ chmod +x decBitlocker.sh</code>
+<br>
+<strong>Execute o programa como sudo</strong>
+<br>
+<code>terminal:\~/decBitlocker$ sudo ./decBitokcer.sh </code>
 
-$ cd decBitlocker
 
-$ chmod +x decBitlocker.sh
-
-$ sudo ./decBitokcer.sh
-
-
-# Seja feliz :) !
+# Be Happy!
